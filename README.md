@@ -2,7 +2,7 @@
 
 A transformer-based sentiment classifier for movie reviews, built from scratch in PyTorch and trained on the IMDB dataset. Includes a Streamlit app for live inference.
 
-**Live demo:** 
+**Live demo:**  [https://transformer-sentiment-analysis-e3u7mdu9wzx4ybz6v2tbn9.streamlit.app/]
 
 ## Overview
 
